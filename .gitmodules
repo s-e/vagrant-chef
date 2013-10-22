@@ -64,6 +64,3 @@
 [submodule "chef/cookbooks/nodejs"]
 	path = chef/cookbooks/nodejs
 	url = git@github.com:mdxp/nodejs-cookbook.git
-[submodule "chef/cookbooks/dotdeb"]
-	path = chef/cookbooks/dotdeb
-	url = git@github.com:homemade/chef-dotdeb.git
